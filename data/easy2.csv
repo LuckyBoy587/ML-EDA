@@ -1,0 +1,68 @@
+order_id,user_id,restaurant_id,order_date,total_amount,items_ordered,payment_method,order_status
+ORD0123,USR027,RST015,26/04/2024,1648,"Fried Rice, Samosa, Hakka Noodles",Credit Card,Completed
+ORD0124,USR040,RST043,26/04/2024,2587,"Fried Rice, Idli Sambhar, Samosa, Mutton Rogan Josh",Credit Card,Completed
+ORD0125,USR063,RST062,26/04/2024,1121,"Fried Rice, Aloo Tikki, Butter Naan, Hakka Noodles",Wallet,Completed
+ORD0126,USR130,RST045,26/04/2024,2297,"Masala Dosa, Pav Bhaji, Idli Sambhar",Cash,Cancelled
+ORD0127,USR169,RST047,26/04/2024,413,"Pav Bhaji, Butter Naan",Cash,Completed
+ORD0128,USR178,RST059,26/04/2024,1796,"Fried Rice, Chicken Curry",Credit Card,Completed
+ORD0129,USR201,RST066,26/04/2024,1170,"Butter Naan, Chicken Curry",Wallet,Completed
+ORD0130,USR039,RST010,27/04/2024,2505,"Chicken Biryani, Mutton Rogan Josh, Dal Makhani, Butter Naan, Masala Dosa",UPI,Completed
+ORD0131,USR041,RST056,27/04/2024,2582,"Paneer Butter Masala, Chicken Curry, Pav Bhaji, Dal Makhani",Wallet,Cancelled
+ORD0132,USR057,RST067,27/04/2024,3187,"Veg Pulao, Masala Dosa, Dal Makhani, Butter Naan",Credit Card,Completed
+ORD0133,USR141,RST064,27/04/2024,427,"Hakka Noodles, Pav Bhaji, Mutton Rogan Josh, Veg Pulao",Cash,Completed
+ORD0134,USR249,RST053,27/04/2024,2670,"Samosa, Paneer Butter Masala, Chole Bhature",UPI,Completed
+ORD0135,USR007,RST033,28/04/2024,2706,"Masala Dosa, Fried Rice, Chicken Biryani, Paneer Butter Masala, Veg Pulao",Wallet,Completed
+ORD0136,USR012,RST064,28/04/2024,2893,"Pav Bhaji, Samosa, Dal Makhani",Wallet,Completed
+ORD0137,USR065,RST059,28/04/2024,3220,"Masala Dosa, Aloo Tikki, Paneer Butter Masala, Chicken Curry",Wallet,Completed
+ORD0138,USR074,RST006,28/04/2024,548,"Butter Naan, Hakka Noodles",Cash,Completed
+ORD0139,USR104,RST013,28/04/2024,3285,"Aloo Tikki, Fried Rice, Mutton Rogan Josh, Butter Naan, Samosa",Credit Card,Completed
+ORD0140,USR106,RST048,28/04/2024,1738,"Fried Rice, Samosa, Paneer Butter Masala",Wallet,Completed
+ORD0141,USR131,RST048,28/04/2024,1663,"Chole Bhature, Dal Makhani",UPI,Completed
+ORD0142,USR180,RST046,28/04/2024,415,"Chicken Curry, Masala Dosa, Dal Makhani, Paneer Butter Masala, Samosa",Credit Card,Completed
+ORD0143,USR202,RST031,28/04/2024,2596,"Dal Makhani, Masala Dosa, Chicken Curry, Chicken Biryani, Pav Bhaji",Wallet,Completed
+ORD0144,USR236,RST044,28/04/2024,764,"Chicken Curry, Butter Naan, Idli Sambhar",Wallet,Completed
+ORD0145,USR021,RST078,29/04/2024,1283,"Hakka Noodles, Chole Bhature, Samosa, Butter Naan",Wallet,Completed
+ORD0146,USR128,RST023,29/04/2024,2438,"Pav Bhaji, Samosa, Idli Sambhar, Aloo Tikki",Cash,Completed
+ORD0147,USR140,RST047,29/04/2024,2355,"Masala Dosa, Chicken Curry, Mutton Rogan Josh",Cash,Completed
+ORD0148,USR145,RST077,29/04/2024,1114,"Idli Sambhar, Aloo Tikki, Chicken Curry, Masala Dosa, Pav Bhaji",Credit Card,Completed
+ORD0149,USR179,RST075,29/04/2024,1021,"Idli Sambhar, Chicken Biryani, Butter Naan, Chole Bhature",UPI,Completed
+ORD0150,USR182,RST074,29/04/2024,2374,"Chicken Curry, Pav Bhaji, Dal Makhani, Fried Rice, Aloo Tikki",Cash,Cancelled
+ORD0151,USR182,RST072,29/04/2024,369,"Masala Dosa, Fried Rice",Credit Card,Cancelled
+ORD0152,USR208,RST075,29/04/2024,2070,"Fried Rice, Chicken Biryani, Idli Sambhar, Veg Pulao",Wallet,Completed
+ORD0153,USR021,RST015,30/04/2024,3113,"Samosa, Chicken Curry, Fried Rice",Credit Card,Completed
+ORD0154,USR060,RST021,30/04/2024,1089,"Chole Bhature, Mutton Rogan Josh, Butter Naan, Samosa",Wallet,Completed
+ORD0155,USR133,RST078,30/04/2024,1893,"Hakka Noodles, Dal Makhani, Samosa, Aloo Tikki",Credit Card,Completed
+ORD0156,USR151,RST048,30/04/2024,3174,"Hakka Noodles, Butter Naan, Aloo Tikki, Veg Pulao",UPI,Completed
+ORD0157,USR158,RST042,30/04/2024,1002,"Chicken Biryani, Hakka Noodles, Mutton Rogan Josh",Credit Card,Completed
+ORD0158,USR238,RST015,30/04/2024,3391,"Paneer Butter Masala, Mutton Rogan Josh, Masala Dosa, Butter Naan, Aloo Tikki",Wallet,Completed
+ORD0159,USR012,RST015,1/5/2024,2536,"Butter Naan, Chicken Biryani",Wallet,Cancelled
+ORD0160,USR035,RST070,1/5/2024,2927,"Fried Rice, Idli Sambhar, Masala Dosa",UPI,Completed
+ORD0161,USR045,RST071,1/5/2024,2868,"Samosa, Pav Bhaji, Veg Pulao",Credit Card,Completed
+ORD0162,USR092,RST035,1/5/2024,2728,"Hakka Noodles, Butter Naan",Cash,Completed
+ORD0163,USR229,RST058,1/5/2024,1228,"Mutton Rogan Josh, Pav Bhaji, Veg Pulao, Hakka Noodles, Fried Rice",Wallet,Completed
+ORD0164,USR240,RST058,1/5/2024,2351,"Chicken Biryani, Butter Naan, Dal Makhani",Wallet,Completed
+ORD0165,USR032,RST022,2/5/2024,1566,"Idli Sambhar, Chole Bhature, Hakka Noodles, Aloo Tikki, Samosa",Wallet,Completed
+ORD0166,USR042,RST014,2/5/2024,1132,"Paneer Butter Masala, Masala Dosa, Pav Bhaji, Aloo Tikki",Cash,Cancelled
+ORD0167,USR186,RST031,2/5/2024,1147,"Dal Makhani, Samosa, Butter Naan, Aloo Tikki, Hakka Noodles",Cash,Completed
+ORD0168,USR207,RST018,2/5/2024,2007,"Fried Rice, Hakka Noodles",Wallet,Completed
+ORD0169,USR215,RST070,2/5/2024,2818,"Dal Makhani, Mutton Rogan Josh, Paneer Butter Masala, Idli Sambhar, Masala Dosa",Cash,Completed
+ORD0170,USR227,RST009,2/5/2024,1531,"Samosa, Fried Rice",Wallet,Completed
+ORD0171,USR004,RST041,3/5/2024,713,"Chole Bhature, Masala Dosa, Mutton Rogan Josh",Wallet,Completed
+ORD0172,USR021,RST009,3/5/2024,2732,"Paneer Butter Masala, Chole Bhature, Mutton Rogan Josh, Masala Dosa",UPI,Completed
+ORD0173,USR032,RST036,3/5/2024,2596,"Hakka Noodles, Fried Rice, Masala Dosa, Mutton Rogan Josh",Credit Card,Completed
+ORD0174,USR040,RST063,3/5/2024,3205,"Chicken Curry, Mutton Rogan Josh",Wallet,Cancelled
+ORD0175,USR062,RST013,3/5/2024,2881,"Chicken Biryani, Hakka Noodles",Wallet,Completed
+ORD0176,USR066,RST061,3/5/2024,2128,"Butter Naan, Veg Pulao, Samosa, Pav Bhaji",Cash,Cancelled
+ORD0177,USR079,RST040,3/5/2024,1138,"Fried Rice, Idli Sambhar, Mutton Rogan Josh",UPI,Completed
+ORD0178,USR140,RST076,3/5/2024,2935,"Masala Dosa, Veg Pulao",Cash,Completed
+ORD0179,USR247,RST063,3/5/2024,354,"Dal Makhani, Pav Bhaji, Hakka Noodles",Credit Card,Completed
+ORD0180,USR012,RST009,4/5/2024,807,"Dal Makhani, Chole Bhature, Veg Pulao, Fried Rice, Samosa",Cash,Cancelled
+ORD0181,USR013,RST069,4/5/2024,1429,"Hakka Noodles, Fried Rice, Aloo Tikki",UPI,Completed
+ORD0182,USR017,RST039,4/5/2024,3321,"Fried Rice, Chole Bhature, Dal Makhani",Cash,Completed
+ORD0183,USR032,RST013,4/5/2024,1492,"Aloo Tikki, Butter Naan, Paneer Butter Masala",Credit Card,Completed
+ORD0184,USR119,RST043,4/5/2024,1101,"Veg Pulao, Chicken Curry",Credit Card,Completed
+ORD0185,USR188,RST076,4/5/2024,1716,"Mutton Rogan Josh, Hakka Noodles, Chole Bhature",Credit Card,Completed
+ORD0186,USR212,RST061,4/5/2024,1765,"Dal Makhani, Paneer Butter Masala, Idli Sambhar",Cash,Completed
+ORD0187,USR024,RST031,5/5/2024,2771,"Mutton Rogan Josh, Masala Dosa, Hakka Noodles",Wallet,Completed
+ORD0188,USR027,RST042,5/5/2024,2013,"Hakka Noodles, Samosa, Mutton Rogan Josh, Aloo Tikki, Chicken Biryani",UPI,Completed
+ORD0189,USR066,RST065,5/5/2024,1507,"Hakka Noodles, Paneer Butter Masala, Mutton Rogan Josh",Credit Card,Completed

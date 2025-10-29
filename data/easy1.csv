@@ -1,0 +1,21 @@
+order_id,user_id,restaurant_id,order_date,total_amount,items_ordered,payment_method,order_status
+ORD0051,USR173,RST079,11/4/2024,369,"Idli Sambhar, Chicken Curry, Paneer Butter Masala, Butter Naan, Chicken Biryani",Cash,Completed
+ORD0052,USR226,RST066,11/4/2024,458,"Idli Sambhar, Veg Pulao, Fried Rice, Chole Bhature",UPI,Completed
+ORD0053,USR017,RST039,12/4/2024,3290,"Hakka Noodles, Chicken Curry, Chole Bhature, Paneer Butter Masala, Samosa",Credit Card,Completed
+ORD0054,USR088,RST020,12/4/2024,1592,"Mutton Rogan Josh, Chicken Biryani",Cash,Completed
+ORD0055,USR225,RST067,12/4/2024,1368,"Veg Pulao, Chole Bhature, Chicken Curry, Mutton Rogan Josh, Dal Makhani",Wallet,Completed
+ORD0056,USR019,RST065,13/04/2024,2569,"Butter Naan, Hakka Noodles, Dal Makhani",Credit Card,Completed
+ORD0057,USR049,RST068,13/04/2024,1216,"Fried Rice, Hakka Noodles, Pav Bhaji",Credit Card,Completed
+ORD0058,USR107,RST028,13/04/2024,2093,"Chicken Curry, Butter Naan, Veg Pulao, Pav Bhaji, Paneer Butter Masala",Credit Card,Completed
+ORD0059,USR250,RST057,13/04/2024,407,"Veg Pulao, Chicken Curry, Chicken Biryani, Masala Dosa, Dal Makhani",Cash,Completed
+ORD0060,USR079,RST020,14/04/2024,3415,"Fried Rice, Paneer Butter Masala, Aloo Tikki, Chole Bhature",Cash,Completed
+ORD0061,USR107,RST028,14/04/2024,2950,"Chole Bhature, Butter Naan, Dal Makhani, Pav Bhaji, Mutton Rogan Josh",UPI,Completed
+ORD0062,USR130,RST054,14/04/2024,2197,"Veg Pulao, Mutton Rogan Josh, Pav Bhaji, Dal Makhani",UPI,Completed
+ORD0063,USR140,RST076,14/04/2024,381,"Hakka Noodles, Mutton Rogan Josh, Chicken Curry, Chicken Biryani",Wallet,Completed
+ORD0064,USR224,RST022,14/04/2024,395,"Paneer Butter Masala, Fried Rice, Pav Bhaji, Aloo Tikki, Butter Naan",Credit Card,Cancelled
+ORD0065,USR075,RST058,15/04/2024,358,"Pav Bhaji, Aloo Tikki, Chicken Curry",Credit Card,Completed
+ORD0066,USR122,RST042,15/04/2024,2186,"Pav Bhaji, Mutton Rogan Josh, Chicken Biryani, Fried Rice",Wallet,Completed
+ORD0067,USR124,RST010,15/04/2024,1853,"Idli Sambhar, Samosa, Masala Dosa, Butter Naan",Wallet,Completed
+ORD0068,USR138,RST024,15/04/2024,3259,"Paneer Butter Masala, Idli Sambhar, Pav Bhaji",Cash,Completed
+ORD0069,USR219,RST013,15/04/2024,1396,"Paneer Butter Masala, Hakka Noodles",Wallet,Completed
+ORD0070,USR235,RST043,15/04/2024,1917,"Masala Dosa, Fried Rice",Wallet,Completed
